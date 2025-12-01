@@ -26,6 +26,7 @@ I'm @skandanyal, and I'm an undergraduate student pursuing Computer Science and 
 ![Eigen](https://img.shields.io/badge/Eigen-1F1232?style=for-the-badge\&logo=matrix\&logoColor=white)
 ![Boost](https://img.shields.io/badge/boost-1F1232?style=for-the-badge\&logo=code\&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-26667F?style=for-the-badge\&logo=openmp\&logoColor=white)
+![OpenBLAS](https://img.shields.io/badge/OpenBLAS-E00?style=for-the-badge\&logo=openblas\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikitlearn-20232A?style=for-the-badge\&logo=scikitlearn\&logoColor=61DAFB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DD0031?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
