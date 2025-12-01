@@ -20,7 +20,7 @@ I'm @skandanyal, and I'm an undergraduate student pursuing Computer Science and 
 ## **Languages which I use**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-800080?style=for-the-badge&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white)
+<!-- ![Golang](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white) -->
 
 ## **Frameworks & Technologies**
 ![Eigen](https://img.shields.io/badge/Eigen-1F1232?style=for-the-badge\&logo=matrix\&logoColor=white)
