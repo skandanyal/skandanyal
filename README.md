@@ -4,14 +4,13 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 👋 Hi there! 
 
-I'm @skandanyal, and I'm an undergraduate student pursuing Computer Science and Engineering.
+I'm @skandanyal, and I'm an undergraduate student pursuing my Bachelors in Computer Science and Engineering.
 
-- 🌱 **Currently Learning**: I'm currently engrossed in'
-  - `building Glacier.ML - a C++ based Machine Learning library` 
-  - `Data Structures and Algorithms in C/C++` 
-- 🚀 **Future Aspirations**: I aim to dive deep into the world of `Quantum Computing` someday!
-- 🤝 **Open to Collaborate**: I'm excited to work on projects related to data science, machine learning, or any innovative tech ideas.
-- 📫 **How to Reach Me**: Feel free to connect with me via email at [skandanyalagach@gmail.com](mailto:skandanyalagach@gmail.com).
+- 🌱 **Projects actively developed**: 
+  - `Glacier.ML` - A performance focused header-only Supervised Machine Learning library, explotiting multi-core architecture on modern consumer grade chipsets. 
+  - `LearnCLeanC` - A C sandbox to learn clean and safe C17 code required in performance engineering projects.
+- 🤝 **Open to Collaborate**: Open to collaborate on C/C++ projects on systems / performance engineering projects. 
+- 📫 **Reach me through**: Feel free to connect with me via email at [skandanyalagach@gmail.com](mailto:skandanyalagach@gmail.com).
 
 ## **Connect with me!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/skandan-cy/)
