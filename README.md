@@ -30,6 +30,3 @@ I'm @skandanyal, and I'm an undergraduate student pursuing my Bachelors in Compu
 ![Scikit-Learn](https://img.shields.io/badge/Scikitlearn-20232A?style=for-the-badge\&logo=scikitlearn\&logoColor=61DAFB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DD0031?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
-## **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
