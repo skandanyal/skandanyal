@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 I'm @skandanyal, and I'm an undergraduate student pursuing my Bachelors in Computer Science and Engineering.
 
 - 🌱 **Projects actively developed**: 
-  - `Glacier.ML` - A performance focused header-only Supervised Machine Learning library, explotiting multi-core architecture on modern consumer grade chipsets. 
+  - `Glacier.ML` - A performance focused header-only Supervised Numerical Algorithms library, explotiting multi-core architecture on modern consumer grade chipsets. 
   - `LearnCLeanC` - A C sandbox to learn clean and safe C17 code required in performance engineering projects.
 - 🤝 **Open to Collaborate**: Open to collaborate on C/C++ projects on systems / performance engineering projects. 
 - 📫 **Reach me through**: Feel free to connect with me via email at [skandanyalagach@gmail.com](mailto:skandanyalagach@gmail.com).
