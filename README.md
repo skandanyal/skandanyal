@@ -1,6 +1,8 @@
 ### 👋 Hi there! 
 
-I'm @skandanyal, an undergraduate student pursuing my Bachelors in Computer Science and Engineering. Pursuing projects on Computational Mathematics through self interest. Maintainer of Glacier - a project umberella encompassing numerical kernels and algriothms for supervised machine learning models.
+I'm @skandanyal, an undergraduate student pursuing my Bachelors in Computer Science and Engineering. Pursuing projects on Computational Mathematics through self interest. Maintainer of Glacier - a project umberella encompassing numerical kernels and algriothms for supervised machine learning models. 
+
+Access my technical blogs through my portfolio website: https://skandanyal.github.io/archive/
 
 - 🌱 **Projects actively developed**: 
   - `Glacier.ML` - A performance focused header-only Supervised Numerical Algorithms library, explotiting multi-core architecture on modern consumer grade chipsets. 
