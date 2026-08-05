@@ -1,4 +1,4 @@
-[![header](https://raw.githubusercontent.com/skandancy/skandancy/main/assets/banner.png)](https://skandanyal.github.io)
+[![header](banner.png)](https://skandanyal.github.io)
 
 <!-- <h1 align="center">Skandan C. Yalagach</h1> -->
 
