@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Skandan C. Yalagach</h1> -->
 
 <p align="center">
-Systems • Machine Learning • Computer Vision
+Systems -- Machine Learning -- Computer Vision
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ memory access patterns, cache locality, SIMD execution, and multi-core scaling.
 <a href="mailto:skandanyalagach@gmail.com">Email</a> •
 <a href="https://linkedin.com/in/skandancy">LinkedIn</a> •
 <a href="https://github.com/skandanyal">GitHub</a> •
-<a href="https://skandanyal.github.io">Technical Blog</a>
+<a href="https://skandanyal.github.io/from_math_to_machines">Technical Blog</a>
 </p>
 
 ---
