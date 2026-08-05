@@ -27,7 +27,7 @@ memory access patterns, cache locality, SIMD execution, and multi-core scaling.
 <h1 align="center">About</h1>
 
 <p align="center">
-Computer Science undergraduate at <strong>The National Institute of Engineering, Mysore</strong><br>
+<strong>The National Institute of Engineering, Mysore</strong><br>
 B.E. Computer Science & Engineering (Artificial Intelligence & Machine Learning)<br>
 Mysore, India · 2023 – Present
 </p>
