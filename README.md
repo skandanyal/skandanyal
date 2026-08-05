@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
-</p>
+[![header](https://raw.githubusercontent.com/skandancy/skandancy/main/assets/banner.png)](https://skandanyal.github.io)
 
-<h1 align="center">Skandan C. Yalagach</h1>
+<!-- <h1 align="center">Skandan C. Yalagach</h1> -->
 
 <p align="center">
-Systems • Machine Learning • Performance
+Systems • Machine Learning • Computer Vision
 </p>
 
 <p align="center">
@@ -21,8 +19,8 @@ memory access patterns, cache locality, SIMD execution, and multi-core scaling.
 <p align="center">
 <a href="mailto:skandanyalagach@gmail.com">Email</a> •
 <a href="https://linkedin.com/in/skandancy">LinkedIn</a> •
-<a href="https://github.com/skandancy">GitHub</a> •
-<a href="https://skandancy.github.io">Technical Blog</a>
+<a href="https://github.com/skandanyal">GitHub</a> •
+<a href="https://skandanyal.github.io">Technical Blog</a>
 </p>
 
 ---
